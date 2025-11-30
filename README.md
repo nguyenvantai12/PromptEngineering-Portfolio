@@ -1,9 +1,9 @@
 # 🚀 Prompt Engineering Portfolio
 
-**👨‍💻 Nguyễn Văn Tài** | Sinh viên năm 3 | Future Prompt Engineer  
-**📧 Email:** nguyenvantai12@gmail.com (thay bằng email thật)  
-**🎯 Mục tiêu:** Junior Prompt Engineer | 25-30tr+/tháng trong 6 tháng  
-**📈 Hành trình:** Tuần 1 → Job Ready (Theo lộ trình Grok AI)  
+**👨‍💻 Nguyễn Văn Tài**  Future Prompt Engineer  
+**📧 Email:** nguyenvantaimessi@gmail.com 
+**🎯 Mục tiêu:** Junior Prompt Engineer  
+**📈 Hành trình:** Tuần 1 → Job Ready
 
 ## 📁 CẤU TRÚC PROJECTS
 | Tuần | Dự án | Tech Stack | Status | Demo |
@@ -32,5 +32,4 @@
 - [OpenAI Cookbook](https://cookbook.openai.com) - Production code  
 - [Karo.edu.vn](https://karo.edu.vn/prompt-engineering) - Tiếng Việt  
 
-**🔥 Follow hành trình 6 tháng → Job Offer!**  
 **Last updated:** November 30, 2025
